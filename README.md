@@ -34,8 +34,6 @@ This project simulates a real-world enterprise IT environment using Oracle Virtu
 
 Each screenshot demonstrates key actions and configurations from the project.
 
-## Screenshot Walkthrough
-
 | Screenshot File                          | Description                                                                |
 |------------------------------------------|----------------------------------------------------------------------------|
 | 01-virtual machines.png                  | Overview of the VirtualBox environment showing all VMs.                    |
